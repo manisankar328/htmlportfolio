@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Html portfolio</title>
+<style>
+    .nav{
+        background-color: rgb(241, 241, 241);
+
+        height: 20px;
+        text-align: right;
+        padding: 10px;
+        
+    }
+    body{
+        background-image: url("https://th.bing.com/th/id/R.4eb01b6d1de8180fc16a7ea457df2dd0?rik=mDmVmiPWKjG19Q&riu=http%3a%2f%2fwallup.net%2fwp-content%2fuploads%2f2016%2f01%2f102787-nature-mountain-river-landscape.jpg&ehk=tKQDONLRX3EXEvzzdRuXB5UBE3a0IgFKug46zeMojOg%3d&risl=&pid=ImgRaw&r=0");
+    }
+    p{
+        width: 40%;
+    margin-left: 200px;
+   color: chocolate;
+   padding-top: 200px;
+
+    }
+    a{
+        padding: 20px;
+    }
+    
+</style>
+</head>
+<body>
+<div class="nav">
+    
+    <a class="active" href="#home"> Home</a>
+    <a href="#skills">Skills</a>
+    <a href="#About"> About</a>
+    <a href="#content"> Content</a>
+</div>
+
+    <p><b>Hello im </b><br> <b>Prabu </b> <br> <b>Am a full stack developer </b> <br> Lorem ipsum dolor sit amet consectetur, adipisicing elit. Non dolor aut voluptas sint in numquam, itaque ipsum laborum expedita laudantium ducimus ipsa cum, minima odit totam nisi alias eligendi rerum?</p>
+
+    
+</body>
+</html>
